@@ -1,2 +1,3 @@
-# may-phat-hien-rick-lan
-phát hiện rick lăn cho bạn có 1 ngày vui vẻ
+# hmmmmmmmmmmmmmmmmmmmm
+- code steal form https://github.com/CodeWithSwastik/rickroll-detector with little bit of improvement idk
+- ok.
