@@ -2,8 +2,8 @@ import discord
 from discord.ext import commands
 from async_rickroll_detector import RickRollDetector
 
-BOT_TOKEN = "MTAxMzc4MDg0Njg2NTU0NzI4NA.GQMSJ7.R59p4W6o-3xIXuZBCpRTQUkXwt8vLmbZyXCouE"
-RICKROLL_FOUND_MESSAGE = "Định rickroll ak =)) k dễ đâu con :trollface:"
+BOT_TOKEN = "put your god dammn bot token here"
+RICKROLL_FOUND_MESSAGE = "Định rickroll ak =)) k dễ đâu con :trollface:" #rickroll detect messages 
 
 bot = commands.Bot(command_prefix = ">", intents = discord.Intents.default())
 
@@ -22,4 +22,4 @@ async def on_message(msg):
 
     await bot.process_commands(msg)
 
-bot.run(BOT_TOKEN)
+bot.run(BOT_TOKEN) #u already put ur token above
